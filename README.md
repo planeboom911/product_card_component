@@ -38,7 +38,7 @@ The design should:
 ### Links
 
 - Solution : [Github](https://github.com/planeboom911/product_card_component)
-- Live Site : [Live Site](https//planeboom911.github.io/product_card_component)
+- Live Site : [Live Site](https://planeboom911.github.io/product_card_component)
 
 ## My process
 
@@ -89,7 +89,7 @@ properties about grids that I don't know yet !
 I mean the way of "telling" that the grid has 2 columns is :
 `grid-template-column: repeat(2, minmax(0, 1fr))`
 
-So... yeah, I got a lot to learn haha
+So... yeah, I got a lot to learn. haha !
 
 ### Useful resources
 
