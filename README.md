@@ -38,7 +38,7 @@ The design should:
 ### Links
 
 - Solution : [Github](https://github.com/planeboom911/product_card_component)
-- Live Site : [Live Site](https//planeboom911.github.io/product_card_component)
+- Live Site : [Live Site](https://planeboom911.github.io/product_card_component)
 
 ## My process
 
