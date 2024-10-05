@@ -51,6 +51,7 @@ main {
   font-weight: 800;
   font-size: 2.15rem;
   line-height: 2.3rem;
+  color: var(--blue-dark-2);
 }
 
 .desc {
